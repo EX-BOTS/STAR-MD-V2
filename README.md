@@ -17,12 +17,8 @@
    <a aria-label="STAR-MD-V2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
  <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
-
-
-
-
-
-
+## ⭐ `Star This Repo`
+If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support. 
 
 
 ## `🚀𝙵𝙴𝙰𝚃𝚄𝚃𝙴𝚂🚀`
@@ -39,8 +35,6 @@
 ◉ Audio/Video Editor Commands                   
 ◉ Others...... 
 
-⭐ `Star This Repo`
-If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support. ##
 
 
 ## 🛠️ `Installation Procedure`
