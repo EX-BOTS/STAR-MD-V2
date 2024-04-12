@@ -2,7 +2,7 @@
       <p align="center">[🇸 🇹 🇦 🇷 -🇲 🇩 ](https://wa.me/+2347045035241)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=700&color=BggB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+STAR-MD-V2................+;A+Multi-fuctional+WhatsApp+bot.......;+++++BY+EXCEL+AMADI............." alt="Typing SVG" /></a>  
+
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
@@ -115,6 +115,4 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-      <p align="center">[`📡Credits`](https://github.com/salmanytofficial)
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
