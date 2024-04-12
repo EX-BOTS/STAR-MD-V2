@@ -1,12 +1,11 @@
 ```STAR-MD-V2```
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[`FOLLOW FOR MORE INFO`](http://github.com/EX-BOTS)
 
  
 
 ##  🌠```Bot Intro```🌠
-[![STAR-MD-V2](https://i.ibb.co/x8RVYs5/20240302-120657.jpg)](https://wa.me/2347045035241)
+[![STAR-MD-V2](https://i.imgur.com/mQDfG3w.jpeg)](https://wa.me/2347045035241)
 </p>
       <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
