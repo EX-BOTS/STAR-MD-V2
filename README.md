@@ -21,7 +21,7 @@
 
 
  ## ⭐ `Star This Repo`
-If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support.
+If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support. ##
 
 
 
