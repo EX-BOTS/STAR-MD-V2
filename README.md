@@ -16,12 +16,12 @@
 
    <a aria-label="STAR-MD-V2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
  <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
-
 ## ⭐ `Star This Repo`
-If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support. 
+If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support.
 
 
- `🚀𝙵𝙴𝙰𝚃𝚄𝚃𝙴𝚂🚀`
+
+🚀𝙵𝙴𝙰𝚃𝚄𝚃𝙴𝚂🚀
 
 
 ◉ Multi-Device Support  
@@ -35,13 +35,11 @@ If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appre
 ◉ Audio/Video Editor Commands                   
 ◉ Others...... 
 
-
-
 ## 🛠️ `Installation Procedure`
 
 
-❏FORK THE REPOSITORY 
-  <a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
+```❏FORK THE REPOSITORY``` 
+  <a href="https://github.com/Xcelsama/EX-BOTS/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -52,12 +50,15 @@ If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appre
 </a>
 
 
-❏GET SESSION ID 
-(PAIR-CODE)           
+
+```❏GET SESSION ID (PAIR-CODE)```           
  
 <a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
+
+
+
 
 
 
