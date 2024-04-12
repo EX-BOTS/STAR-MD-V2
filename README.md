@@ -23,12 +23,12 @@
 </a>
 
 
-⭐ `Star This Repo`
+⭐ ## `Star This Repo`
 If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support.
 
 
 
-🚀𝙵𝙴𝙰𝚃𝚄𝚃𝙴𝚂🚀
+ ## 🚀𝙵𝙴𝙰𝚃𝚄𝚃𝙴𝚂🚀
 
 
 ◉ Multi-Device Support  
